@@ -10,8 +10,6 @@ A simple Android app that shows real-time **Air Quality Index (AQI)** informatio
 - Shows **place name** and **AQI value** in a card overlay.
 - Fetches AQI data from a REST API.
 - Updates AQI dynamically as the map moves.
-- **Connectivity listener** to notify the user when there is no internet connection.
-- Handles devices with **display cutouts / notch** (safe layout).
 - Built with **MVVM architecture** for clean separation of concerns.
 
 ---
@@ -25,7 +23,5 @@ A simple Android app that shows real-time **Air Quality Index (AQI)** informatio
 - **Google Maps SDK**  
 - **Retrofit + OkHttp + Gson** for API calls  
 - **Coroutines** for asynchronous operations  
-- **Material Components** for UI (CardView, Toolbar)  
 
----
 
