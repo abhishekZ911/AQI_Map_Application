@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AQI-Map Application</string>
+    <string name="google_maps_key">AIzaSyA0LDLmhAQqH89TDh0UZbS7hNWJFkpk7Dg</string>
+</resources>
